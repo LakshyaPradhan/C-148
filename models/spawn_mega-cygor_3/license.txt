@@ -1,0 +1,11 @@
+Model Information:
+* title:	Spawn Mega-Cygor (3)
+* source:	https://sketchfab.com/3d-models/spawn-mega-cygor-3-d76c2f26905440cd957de261301d09ba
+* author:	Emm (Scenario) (https://sketchfab.com/edemaistre)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Spawn Mega-Cygor (3)" (https://sketchfab.com/3d-models/spawn-mega-cygor-3-d76c2f26905440cd957de261301d09ba) by Emm (Scenario) (https://sketchfab.com/edemaistre) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
